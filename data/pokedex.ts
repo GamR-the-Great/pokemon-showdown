@@ -21489,7 +21489,7 @@ catzelwyrm: {
 		num: 10219,
 		name: "Catzelwyrm",
 		types: ["Dragon", "Fairy"],
-		baseStats: {hp: 80, atk: 135, def: 65, spa: 55, spd: 135, spe: 85}
+		baseStats: {hp: 80, atk: 135, def: 65, spa: 55, spd: 135, spe: 85},
 		abilities: {0: "Technician", 1: "Fluffy", H: "Toxicant"},
 		heightm: 1.2,
 		weightkg: 42,
