@@ -21508,7 +21508,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Purple",
 		eggGroups: ["Field"],
 		newmeta: "true",
-},
+	},
 	peltarogue: {
 		num: 10221,
 		name: "Peltarogue",
@@ -21519,6 +21519,6 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 42,
 		color: "Purple",
 		eggGroups: ["Field", "Monster"],
-		newmeta: "true",	
+		newmeta: "true",
 	},
 };
