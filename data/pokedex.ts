@@ -21489,6 +21489,7 @@ headsbone: {
 	},
 	dafdaencer: {
 		num: 10214,
+		name: "Dafdaencer",
 		types: ["Normal", "Fairy"],
 		baseStats: {hp: 70, atk: 103, def: 60, spa: 103, spd: 60, spe: 94},
 		abilities: {0: "Dancer", 1: "Own Tempo", H: "Quick Feet"},
@@ -21595,5 +21596,4 @@ peltarogue: {
 		eggGroups: ["Field", "Monster"],
 		newmeta: "true",	
 	},
-		
 };
